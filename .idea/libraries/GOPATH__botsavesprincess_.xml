@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;botsavesprincess&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../go/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/code.google.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/speter.net" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/Users" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/output" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/9fans.net" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../go/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/code.google.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/speter.net" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/Users" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/output" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../go/src/9fans.net" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
